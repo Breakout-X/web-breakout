@@ -1,0 +1,18 @@
+body {
+  background: black;
+}
+p {
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  color: white;
+}
+a {
+  color: #42bee6;
+}
+count {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
