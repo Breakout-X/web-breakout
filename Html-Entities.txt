@@ -1,6 +1,6 @@
 Used html entities
-&code; result
-
+entitiy; result
+------------
 &lt; <
 &gt; >
 &sol; /
