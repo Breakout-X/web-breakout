@@ -8,6 +8,10 @@ p-disabled {
     color: lightcoral;
     text-decoration-line: line-through;
 }
+a.disabled {
+    color: lightcoral;
+    text-decoration-line: line-through;
+}
 h0 {
     font-weight: bold;
     font-size: x-large;
