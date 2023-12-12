@@ -1,0 +1,174 @@
+body {
+    background-color: #141ca3;
+}
+p {
+    color: rgb(173, 255, 47);
+    font-family: cursive;
+}
+  
+h1 {
+    color: rgb(255, 232, 0);
+    font-family: cursive;
+}
+h2 {
+    color: rgb(173, 255, 47);
+    font-family: cursive;
+}
+h3 {
+    color: rgb(255, 215, 0);
+    font-family: cursive;
+}
+textarea {
+    background-color: rgb(255, 228, 196);
+    font-family: cursive;
+    color: black;
+    outline-color: rgb(0, 0, 255);
+}  
+div {
+    background-color: white;
+    border-radius: 20px;   
+    border-width: thick;
+    border-style: solid;
+    border-color: rgb(135, 19, 19);
+    border-width: thick;
+    border-width: 4px;
+    background-color: aliceblue;
+}
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+img {
+    border-radius: 20px; 
+}
+warn.WARNING{
+    position: -webkit-fixed;
+    position: fixed;
+    bottom: 0; 
+}
+button {
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    float: left;
+    font-family: cursive;
+    background: #cdcdcd;
+    border-width: thick;
+    border-style: solid;
+    border-color: rgb(135, 19, 19);
+    border-width: thick;
+    border-width: 4px;
+    border-style: thick;
+    border-radius: 10px;
+    text-decoration-color: #00ff3c;
+    font-family: cursive;
+}
+footer {
+    background-color: white;
+    border-radius: 20px;   
+    border-width: thick;
+    border-style: solid;
+    border-color: rgb(135, 19, 19);
+    border-width: thick;
+    border-width: 4px;
+    background-color: aliceblue;
+    font-family: cursive;
+}
+a.item {
+    text-decoration-line: none;
+}
+code {
+    border: none;
+    box-shadow: inset -1px -1px 1px rgba(0,0,0,0.5),inset 1px 1px 1px 0 rgba(255,255,255,0.8);
+    color: #000
+}
+body {
+    background-color: rgb(3, 131, 251);
+}
+p {
+    color: rgb(173, 255, 47);
+    font-family: cursive;
+}
+  
+h1 {
+    color: rgb(255, 232, 0);
+    font-family: cursive;
+}
+  
+h2 {
+    color: rgb(173, 255, 47);
+    font-family: cursive;
+}
+  
+h3 {
+    color: rgb(255, 215, 0);
+    font-family: cursive;
+}
+  
+textarea {
+    background-color: rgb(255, 228, 196);
+    font-family: cursive;
+    color: black;
+    outline-color: rgb(0, 0, 255);
+}
+  
+div {
+    background-color: white;
+    border-radius: 20px;   
+    border-width: thick;
+    border-style: solid;
+    border-color: rgb(135, 19, 19);
+    border-width: thick;
+    border-width: 4px;
+    background-color: aliceblue;
+}
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+img {
+    border-radius: 20px; 
+}
+warn.WARNING{
+    position: -webkit-fixed;
+    position: fixed;
+    bottom: 0; 
+}
+button {
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    float: left;
+    font-family: cursive;
+    background: #cdcdcd;
+    border-width: thick;
+    border-style: solid;
+    border-color: rgb(135, 19, 19);
+    border-width: thick;
+    border-width: 4px;
+    border-style: thick;
+    border-radius: 10px;
+    text-decoration-color: #00ff3c;
+    font-family: cursive;
+}
+footer {
+    background-color: white;
+    border-radius: 20px;   
+    border-width: thick;
+    border-style: solid;
+    border-color: rgb(135, 19, 19);
+    border-width: thick;
+    border-width: 4px;
+    background-color: aliceblue;
+    font-family: cursive;
+}
+a.item {
+    text-decoration-line: none;
+}
+code {
+    border: none;
+    box-shadow: inset -1px -1px 1px rgba(0,0,0,0.5),inset 1px 1px 1px 0 rgba(255,255,255,0.8);
+    color: #000
+}
