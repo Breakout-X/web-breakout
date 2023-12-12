@@ -10,7 +10,7 @@
     <h1>Welcome to Web Breakout | Make the project of your dreams!</h1>
     <p>
       This website is a work in progress. 
-      Projects are not yet ready to be deployed
+      Projects are not yet sussy
     </p>
   </body>
 </html>
