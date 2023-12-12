@@ -16,3 +16,24 @@ count {
   font-weight: bold;
   font-size: 20px;
 }
+
+@media screen and (max-width: 1250px) {
+  body {
+    background: #323232;
+  }
+  p {
+    color: white;
+  }
+  h1 {
+    font-weight: bold;
+    color: white;
+  }
+  a {
+    color: #42bee6;
+  }
+  count {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+  } 
+}
