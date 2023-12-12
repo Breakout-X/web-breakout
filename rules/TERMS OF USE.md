@@ -9,7 +9,7 @@
 
     b. Project Policy
 
-        
+        Projects may not be an attempt to hack other people. See ```RULES.md``` for more details.
 
     c. Cloud Script policy
 
