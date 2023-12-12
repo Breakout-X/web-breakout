@@ -4,9 +4,12 @@
 
     a. Cookie Policy
 
-        By using this site, you agree to having our cookies on you for purposes involving
+        By using this site, you agree to having our cookies on you for purposes involving performance, service, and data.
+        You can block performance and data cookies without having to go icognito, but data cookies being blocked can impact your user and project data.
 
     b. Project Policy
+
+        
 
     c. Cloud Script policy
 
@@ -41,5 +44,5 @@
     d. Ip bans
 
     e. Emailing us to restore your account
-    
+
     f. RULES
