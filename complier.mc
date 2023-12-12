@@ -1,4 +1,4 @@
-<!DOCTYPE html public>
+<!DOCTYPE html public mastercodesourcefile>
 <html>
   <head>
     <title>Web Breakout | Make the project of your dreams!</title>
@@ -14,4 +14,3 @@
     </p>
   </body>
 </html>
-<!--#include virtual="complier.mc" -->
