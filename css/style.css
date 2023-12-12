@@ -1,4 +1,5 @@
-@media screen and (min-width: 0px) { /*This is for a phone and i-pad*/
+@media screen and (max-width: 480px) and (min-width: 481px) and (max-width: 767px) and (min-width: 768px) and (max-width: 1024px) {
+  /*This is for mobile devices*/
   body {
     background: #323232;
   }
@@ -47,7 +48,7 @@
   } 
 }
 
-@media screen and (min-width: 1000px) { /*for chrome books, pcs, etc.*/
+@media screen and (min-width: 1000px) and (min-width: 1025px) and (max-width: 1280px) and (min-width: 1281px) { /*for any kind of computer screen or tv screen*/
   body {
     background: #323232;
   }
