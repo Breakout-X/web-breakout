@@ -3,9 +3,8 @@
 # DO NOT EDIT
 
 Copyright 2023 of Elijah Ledlow and of the contributors to MasterCodeProjectBuild.
-The License is listed using the image ```./img/cc.jpg``` for https://creativecommons.org/licenses/by-sa/4.0/
-
-===============
+This work is licensed under a *Creative Commons Attribution 4.0 International License* (CC BY-SA 4.0 License) ```./img/cc.jpg``` https://creativecommons.org/licenses/by-sa/4.0/
+---------------
 
 Attribution-ShareAlike 4.0 International
 
