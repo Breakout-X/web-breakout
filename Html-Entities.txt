@@ -1,0 +1,8 @@
+Used html entities
+&code; result
+
+&lt; <
+&gt; >
+&sol; /
+&quest; ?
+&nbsp; *space*
