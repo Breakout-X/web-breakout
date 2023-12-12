@@ -1,92 +1,41 @@
-@media screen and (max-width: 480px) and (min-width: 481px) and (max-width: 767px) and (min-width: 768px) and (max-width: 1024px) {
-  /*This is for mobile devices*/
-  body {
-    background: #323232;
-  }
-  p {
-    color: white;
-    font-size: medium;
-  }
-  h1 {
-    /*all are slightly bigger than before*/
-    font-weight: bold;
-    font-size: xx-large;
-    color: white;
-  }
-  h2 {
-    font-weight: bold;
-    font-size: x-large;
-    color: white;
-  }
-  h3 {
-    font-weight: bold;
-    font-size: larger;
-    color: white;
-  }
-  h4 {
-    font-weight: bold;
-    font-size: large;
-    color: white;
-  }
-  h5 {
-    font-weight: bold;
-    font-size: medium;
-    color: white;
-  }
-  h6 {
-    font-weight: bold;
-    font-size: small;
-    color: white;
-  }
-  a {
-    color: #42bee6;
-    font-size: medium;
-  }
-  count {
-    color: white;
-    font-weight: bold;
-    font-size: 60px;
-  } 
+body {
+  background: #323232;
 }
-
-@media screen and (min-width: 1000px) and (min-width: 1025px) and (max-width: 1280px) and (min-width: 1281px) { /*for any kind of computer screen or tv screen*/
-  body {
-    background: #323232;
-  }
-  p {
-    color: white;
-  }
-  h1 {
-    /*all of these will be normal sizing*/
-    font-weight: bold;
-    color: white;
-  }
-  h2 {
-    font-weight: bold;
-    color: white;
-  }
-  h3 {
-    font-weight: bold;
-    color: white;
-  }
-  h4 {
-    font-weight: bold;
-    color: white;
-  }
-  h5 {
-    font-weight: bold;
-    color: white;
-  }
-  h6 {
-    font-weight: bold;
-    color: white;
-  }
-  a {
-    color: #42bee6;
-  }
-  count {
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-  }
+p {
+  color: white;
+  font-size: medium;
+}
+h1 {
+  font-weight: bold;
+  font-size: xx-large;
+  color: white;
+}
+h2 {
+  font-weight: bold;
+  font-size: x-large;
+  color: white;
+}
+h3 {
+  font-weight: bold;
+  font-size: larger;
+  color: white;
+}
+h4 {
+  font-weight: bold;
+  font-size: large;
+  color: white;
+}
+h5 {
+  font-weight: bold;
+  font-size: medium;
+  color: white;
+}
+h6 {
+  font-weight: bold;
+  font-size: small;
+  color: white;
+}
+a {
+  color: #42bee6;
+  font-size: medium;
 }
