@@ -1,4 +1,4 @@
-# Attribution-ShareAlike 4.0 International
+# This is the LICENSE
 ---------------
 # DO NOT EDIT
 
