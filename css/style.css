@@ -7,7 +7,8 @@
     color: white;
     font-size: medium;
   }
-  h1 {    /*all are slightly bigger than before*/
+  h1 {
+    /*all are slightly bigger than before*/
     font-weight: bold;
     font-size: xx-large;
     color: white;
@@ -55,7 +56,8 @@
   p {
     color: white;
   }
-  h1 {  /*all of these will be normal sizing*/
+  h1 {
+    /*all of these will be normal sizing*/
     font-weight: bold;
     color: white;
   }
