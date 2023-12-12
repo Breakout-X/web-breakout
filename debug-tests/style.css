@@ -1,0 +1,43 @@
+body {
+    background: black;
+}
+p {
+    color: white;
+}
+p-disabled {
+    color: lightcoral;
+    text-decoration-line: line-through;
+}
+h0 {
+    font-weight: bold;
+    font-size: x-large;
+    font-family: cursive;
+    color: white;
+}
+h1 {
+    font-weight: bold;
+    color: white;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+h5 {
+    color: white;
+}
+h6 {
+    color: white;
+}
+a {
+    color: #42bee6;
+}
+count {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
