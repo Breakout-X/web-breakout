@@ -113,14 +113,6 @@
             ---------
             See RULES.md for more details.
 
--- Mod Policy --
-
-    a. Policy
-
-    b. Mod LICENSE
-
-    c. Mod RULES
-
 -- Ban Policy --
 
     a. Project bans
@@ -143,3 +135,11 @@
     c. Ratings by the MasterCodeProjectBuild team
 
     d. Ratings by other users
+
+-- Mod Policy --
+
+    a. Policy
+
+    b. Mod LICENSE
+
+    c. Mod RULES
