@@ -113,6 +113,24 @@
             ---------
             See RULES.md for more details.
 
+-- Project Reviews and Ratings
+
+    a. Reviews by the MasterCodeProjectBuild team
+
+        We review your project in 3 ways:
+            1. As a user would.
+                We can see your projects as viewed.
+                We usually do this if we think your project is good.
+
+            2. Through the editor
+                Even if you have 'let others view code' set to off
+
+    b. Reviews by other users
+
+    c. Ratings by the MasterCodeProjectBuild team
+
+    d. Ratings by other users
+
 -- Ban Policy --
 
     a. Project bans
@@ -124,17 +142,6 @@
     d. Ip bans
 
     e. Restore your account if banned incorrectly.
-
-
--- Project Reviews and Ratings
-
-    a. Reviews by the MasterCodeProjectBuild team
-
-    b. Reviews by other users
-
-    c. Ratings by the MasterCodeProjectBuild team
-
-    d. Ratings by other users
 
 -- Mod Policy --
 
