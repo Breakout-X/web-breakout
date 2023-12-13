@@ -1,9 +1,11 @@
-# This is the LICENSE
----------------
-# DO NOT EDIT
+# CC LICENSE
+This is the License that shall be used in your mod/fork of this site.
+Not using the CC-LICENSE or the MIT-LICENSE in your work is a violation of both the TERMS and the RULES.
+===============
 
 Copyright 2023 of Elijah Ledlow and of the contributors to MasterCodeProjectBuild.
-This work is licensed under a *Creative Commons Attribution 4.0 International License* (CC BY-SA 4.0 License) ![Creative Commons icon](cc/cc.jpg)https://creativecommons.org/licenses/by-sa/4.0/
+Remade on <year>, belonging to <you> and <any-other-contributors>
+This work is licensed under a *Creative Commons Attribution 4.0 International License* (CC BY-SA 4.0 License) ![Creative Commons icon](../cc/cc.jpg) https://creativecommons.org/licenses/by-sa/4.0/
 ---------------
 
 Attribution-ShareAlike 4.0 International
