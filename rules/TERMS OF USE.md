@@ -188,12 +188,19 @@
         If you have been rated many ❤️'s, your project will be more likely to show up on the Public page.
         If you have been rated many ⭐'s, your project will show up on the profile of one who rated your project.
         If you have been rated many 💙's, your project will be less likely to show up on the Public page and will be more likely to be rated FS or NFE over FE.
+        ---
+        Users can report your project if it has something that violates the RULES.
+        We will not follow every report and we do not have time to view every project, so bad projects could still be out there, so be careful.
 
 -- Ban Policy --
 
     a. Project bans
+        We can remove your project if it has something that violates the rules in major.
+        As said before, projects cannot be reshared after being banned but still can be edited by the user.
+        However, after about 5 days, your project will be removed from the alghorithim entirely.
 
     b. User bans
+        
 
     c. Chat bans
 
