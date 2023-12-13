@@ -77,7 +77,7 @@
             Any accounts that are unsigned in can see comments but cannot use it.
             After confirming email, you must verify you are not a bot.
             We may ask you if you are a bot if we have high suspicion of you being one.
-            Bots will get both a normal AND a ip ban
+            Bots will get both a normal AND a ip ban.
 
         2. Accounts set to 10+
 
