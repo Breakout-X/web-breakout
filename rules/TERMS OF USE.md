@@ -41,11 +41,33 @@
 
     a. What is allowed and not allowed on projects
 
-        1. Violence
+        1. Violence content
             
-            Can contain Mild Violence, Fantasy Violence, and Gore
-            Can contain References to SOME real-world violence
-            Cannot contain Strong Gore
+            Can contain Mild Violence, Cartoon Violence, Fantasy Violence, and Gore
+            Can contain References to SOME real-world violence (World War and before)
+            --
+            Cannot contain Strong Gore, Real child abuse, Real human or animal abuse,
+            human abuse in general, slavery.
+            --
+            See RULES.md for more details.
+
+        2. Suggestive/Explicit content
+
+            Can contain some Suggestive content that is Cartoon/svg.
+                See RULES.md in the "Suggestive content" section for more details.
+            Can contain some Explicit content.
+                See RULES.md in the "Animal content" section for more details.
+            Can contain some Rude Humor.
+                See RULES.md for more details.
+            --
+            Cannot contain profanity unless censored.
+                See RULES.md in the "Past/Presnt/Future" Section for more details.
+            Cannot contain Suggestive or Explicit content that of real people based.
+                Breaking this rule will result in an instant ban. See RULES.md in the "Explicit content" section for more details.
+            Cannot contain Explicit content that is Cartoon Human based.
+                Breaking this rule will result in an instant ban.
+            Cannot contain some Rude Humor.
+                See RULES.md for more details.
 
 
     b. RULES
