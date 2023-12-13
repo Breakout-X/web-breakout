@@ -44,6 +44,7 @@
         1. Violence
             
             Can contain Mild Violence, Fantasy Violence, and Gore
+            Can contain References to SOME real-world violence
             Cannot contain Strong Gore
 
 
