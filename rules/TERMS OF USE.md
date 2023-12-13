@@ -9,13 +9,21 @@
 
     b. Project Policy
 
-        Projects may not be an attempt to hack other people. See ```RULES.md``` for more details.
+        Projects may not be an attempt to hack other people or violate the RULES. See ```RULES.md``` for more details.
 
-    c. Cloud Script policy
+    c. WebSocket (Online Server) policy
+
+        Projects by default run on the same WebServer that this gitsite is running on. However, WebSockets can be used for similar, but very different thigs.
+        ========
+        Projects may run on a WebSocket that is allowed in scope of the program. However, projects MAY NOT abuse the WebSocket in ways such as the following: Using hidden invalid ASCII characters, Running image codes of images that have previously been banned, Unfiltered chat, (filtered chat however is fine), Credit cards and more. See ```RULES.md``` for more details.
 
     d. RULES
 
+        If any of your interaction with this site is against the RULES, we can give you punishments such as the ones listed in ```RULES.md``` and ones dicussed in the ```Ban Policy```.
+
     e. LICENSE
+
+        If any of your interaction with this site is against the LICENSE, we can give you punishments such as the ones listed in ```RULES.md```, ones dicussed in the ```Ban Policy``` AND ones that require Legal Action.
 
 -- Projects and User interaction --
 
