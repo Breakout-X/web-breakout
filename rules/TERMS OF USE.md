@@ -113,7 +113,7 @@
             ---------
             See RULES.md for more details.
 
--- Project Reviews and Ratings
+-- Project Reviews and Ratings--
 
     a. Reviews by the MasterCodeProjectBuild team
 
@@ -129,9 +129,10 @@
                 we can still view your code to check for viruses or anomolies.
                 DO NOT TRY TO HIDE STUFF FROM US. 
                 We can always see your editor and WebSockets.
+                See RULES.md for more details.
 
-            3. Through our Rating Api
-                We can rate your project in 6 ways, returning 6 diffent results:
+            3. Through our Reviewing Api
+                We can rate your project in 6 ways:
                     FE => For Everyone
                     FS => For Some
                     NFA => Not For Everyone
@@ -143,26 +144,50 @@
                         The project contains content that everyone of all ages can handle.
                         These can show up on the Public page, Search results, and Studios.
                         We WILL NOT put content for people under 5 years of age on the front page however.
-                        We will have a badge on your project to tell you if we put it on the front page.
+                        We will have a badge on your project to tell you if we put it on the Public page.
 
                     For Some:
                         The project contains content that people over 13 years of age can handle.
-                        These can show up on the Public page, Search results, and Studios.
-                        We will have a badge on your project to tell you if we put it on the front page.
+                        These projects still can show up on the Public page, Search results, and Studios.
+                        We will have a badge on your project to tell you if we put it on the Public page.
 
                     Not For Everyone:
                         Projects rated this rating means that this project contains stuff that violates to the specific required directs in the RULES,
                         but is not violating any of the other RULES.
-                        These can not show up on the Public page, Search results, but can show up on Studios and are still visible.
+                        These can't show up on the Public page, Search results, but can show up on Studios and are still visible.
                     
                     Private:    
-                        
+                        Projects rated this are projects that the user set to private.
+                        These projects still have to apply by the rules since they are still shared, but only to specific people.
+                        These can't show up on the Public page, Search results, or Studios, but are still visible via URL.
+
+                    Unshared:
+                        These projects are projects that have not been shared by the user.
+                        These can't show up anywhere except on this website.
+                        These projects do not have to abide by most of the RULES but still cannot be of Porne or Viruses.
+
+                    Removed:
+                        These are projects that have been unshared or banned by the MasterCodeProjectBuild team.
+                        These can't show up anywhere except on this website.
+                        Banned projects cannot be reshared but can still be edited
+                        Removed projects when reshared will be rated NFE.
+
+                For any other questions, see RULES.md for more details.
 
     b. Reviews by other users
+        Other users can see your projects in viewing mode and can rate it.
+        You can disable 'let others view code' if you wish to make your code Private to only you and your collaborators.
 
     c. Ratings by the MasterCodeProjectBuild team
+        Besides the Reviewing Api, we can rate your project like a normal user would.
+        However, if we feel that your project is getting incorrect ratings, we can turn it off without your consent.
 
     d. Ratings by other users
+        Users cannot rate your projects by chat, but by button.
+        ---
+        If you have been rated many hearts, your project will be more likely to show up on the public page.
+        If you have been rated many favorites, your project will show up on the favoritor's profile.
+        If you have been rated many mehs/boos, your project will be less likely to show up on the favoritors profile and will be more likely to be rated FS over FE.
 
 -- Ban Policy --
 
