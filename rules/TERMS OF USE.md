@@ -40,13 +40,11 @@
 -- Projects and User interaction --
 
     a. What is allowed and not allowed on projects
-        1. allowed
-            Projects generally have to contain content that at least 13 year olds can handle.
+
+        1. Violence
             
-
-        2. not allowed
-
-        3. allowed but dangerous
+            Can contain Mild Violence, Fantasy Violence, and Gore
+            Cannot contain Strong Gore
 
 
     b. RULES
@@ -74,3 +72,13 @@
     e. Emailing us to restore your account
 
     f. RULES
+
+-- Project Reviews and Ratings
+
+    a. Reviews by the MasterCodeProjectBuild team
+
+    b. Reviews by other users
+
+    c. Ratings by the MasterCodeProjectBuild team
+
+    d. Ratings by other users
