@@ -28,12 +28,12 @@
     d. RULES
 
         If any of your interaction with this site is against the RULES, we can give you punishments 
-        such as the ones listed in RULES.md and ones dicussed in the --Ban Policy--
+        such as the ones listed in RULES.md and ones dicussed in the "Ban Policy"
 
     e. LICENSE
 
         If any of your interaction with this site is against the LICENSE, we can give you punishments 
-        such as the ones listed in ```RULES.md```, ones dicussed in the ```Ban Policy``` 
+        such as the ones listed in RULES.md ones dicussed in the "Ban Policy" 
         AND ones that require Legal Action.
         See RULES.md and LICENSE.md for more details.
 
@@ -41,11 +41,13 @@
 
     a. What is allowed and not allowed on projects
         1. allowed
+            Projects generally have to contain content that at least 13 year olds can handle.
+            
 
         2. not allowed
 
         3. allowed but dangerous
-        
+
 
     b. RULES
 
