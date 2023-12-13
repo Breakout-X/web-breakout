@@ -127,7 +127,36 @@
             2. Through the editor
                 Even if you have 'let others view code' set to off,
                 we can still view your code to check for viruses or anomolies.
+                DO NOT TRY TO HIDE STUFF FROM US. 
+                We can always see your editor and WebSockets.
 
+            3. Through our Rating Api
+                We can rate your project in 6 ways, returning 6 diffent results:
+                    FE => For Everyone
+                    FS => For Some
+                    NFA => Not For Everyone
+                    P => Private
+                    NAN => Unshared
+                    R => Removed
+
+                    For Everyone:
+                        The project contains content that everyone of all ages can handle.
+                        These can show up on the Public page, Search results, and Studios.
+                        We WILL NOT put content for people under 5 years of age on the front page however.
+                        We will have a badge on your project to tell you if we put it on the front page.
+
+                    For Some:
+                        The project contains content that people over 13 years of age can handle.
+                        These can show up on the Public page, Search results, and Studios.
+                        We will have a badge on your project to tell you if we put it on the front page.
+
+                    Not For Everyone:
+                        Projects rated this rating means that this project contains stuff that violates to the specific required directs in the RULES,
+                        but is not violating any of the other RULES.
+                        These can not show up on the Public page, Search results, but can show up on Studios and are still visible.
+                    
+                    Private:    
+                        
 
     b. Reviews by other users
 
