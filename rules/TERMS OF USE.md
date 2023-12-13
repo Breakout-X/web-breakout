@@ -121,9 +121,13 @@
             1. As a user would.
                 We can see your projects as viewed.
                 We usually do this if we think your project is good.
+                If your project is really good and follows these TERMS and the RULES,
+                we may put it on the /public page.
 
             2. Through the editor
-                Even if you have 'let others view code' set to off
+                Even if you have 'let others view code' set to off,
+                we can still view your code to check for viruses.
+                
 
     b. Reviews by other users
 
