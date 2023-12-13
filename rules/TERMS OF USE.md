@@ -200,17 +200,40 @@
         However, after about 5 days, your project will be removed from the alghorithim entirely.
 
     b. User bans
-        
+        If you are repeadiatly violating the TERMS, RULES, and possibly the LICENSE, we have the authority to ban you.
+        If you believe you have been falsely banned, you can email us to restore your account.
+        You can be banned a max amount of 3 times.
+        Afterward, you will have to create an entirely new account from start.
+        However, violating different rules can result in worse punishments.
 
     c. Chat bans
+        If you are sending adverisments or hate spam a lot while not being a bot, we can ban you with time limits on the chat.
+
+        Offenses:
+            1st offense: 5 min
+            2nd offense: 5 min
+            3rd offense: 10 min
+            4th offense: 20 min
+            5th offense: 40 min
+            6th offense: 1hr 20 min
+            7th offense: 2hr 40 min
+            8th offense: 5hr 20 min
+            9th offense: Permanent ban
 
     d. Ip bans
+        If your IP has been banned, your network/location has no more access to this website.
+        ---
+        We will IP ban you if you are violating the vast majority of the RULES repeadiatly.
+        You can still email us to restore your account but will have to use a different network since IP bans are permanent.
 
     e. Restore your account if banned incorrectly.
+        If you have been banned and belive you have been banned improperly, you can email us here:
+        [no email set]
 
 -- Mod Policy --
 
     a. Policy
+        
 
     b. Mod LICENSE
 
