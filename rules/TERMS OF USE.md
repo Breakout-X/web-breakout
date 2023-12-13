@@ -78,6 +78,8 @@
             After confirming email, you must verify you are not a bot.
             We may ask you if you are a bot if we have high suspicion of you being one.
             Bots will get both a normal AND a ip ban.
+            ---------
+            See RULES.md for more details.
 
         2. Accounts set to 10+
 
@@ -106,15 +108,18 @@
 
             Any accounts set to a age of less than 10 years old cannot use the comments section.
             Any accounts with administrator settings turning off comments can't use or even see the comments.
+            ---------
             If you have a school account and wish to still see the comments section, contact your administrator.
+            ---------
+            See RULES.md for more details.
 
 -- Mod Policy --
 
     a. Policy
 
-    b. LICENSE
+    b. Mod LICENSE
 
-    c. RULES
+    c. Mod RULES
 
 -- Ban Policy --
 
@@ -126,9 +131,8 @@
 
     d. Ip bans
 
-    e. Emailing us to restore your account
+    e. Restore your account if banned incorrectly.
 
-    f. RULES
 
 -- Project Reviews and Ratings
 
