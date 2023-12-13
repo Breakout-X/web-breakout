@@ -185,9 +185,9 @@
     d. Ratings by other users
         Users cannot rate your projects by chat, but by button.
         ---
-        If you have been rated many ❤️'s, your project will be more likely to show up on the public page.
+        If you have been rated many ❤️'s, your project will be more likely to show up on the Public page.
         If you have been rated many ⭐'s, your project will show up on the profile of one who rated your project.
-        If you have been rated many mehs/boos, your project will be less likely to show up on the favoritors profile and will be more likely to be rated FS or NFE over FE.
+        If you have been rated many 💙's, your project will be less likely to show up on the Public page and will be more likely to be rated FS or NFE over FE.
 
 -- Ban Policy --
 
