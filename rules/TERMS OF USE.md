@@ -106,6 +106,7 @@
 
             Any accounts set to a age of less than 10 years old cannot use the comments section.
             Any accounts with administrator settings turning off comments can't use or even see the comments.
+            If you have a school account and wish to still see the comments section, contact your administrator.
 
 -- Mod Policy --
 
