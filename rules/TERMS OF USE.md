@@ -126,8 +126,8 @@
 
             2. Through the editor
                 Even if you have 'let others view code' set to off,
-                we can still view your code to check for viruses.
-                
+                we can still view your code to check for viruses or anomolies.
+
 
     b. Reviews by other users
 
