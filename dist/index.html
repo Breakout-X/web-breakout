@@ -9,19 +9,20 @@
     <link rel="icon" href="../img/favicon.ico" id="my-favicon">
   </head>
   <body>
-    <!--<script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>-->
-    <script src="jszip.min.js"></script>
-    <script onload="alert('click the input button and add a zip file')" onerror="alert('script failed to run')">
-        f = document.getElementById('f');
-        f.onchange = function() {
-        var zip = new JSZip();
-        zip.loadAsync( this.files[0] /* = file blob */)
-            .then(function(zip) {
-                // process ZIP file content here
-                alert("OK")
-            }, function() {alert("Not a valid zip file")}); 
-        };
-    </script>
     <input type=file id=f>
   </body>
+  <!--Scripts in Github must be hosted under the body element-->
+  <!--<script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>-->
+  <script src="jszip.min.js"></script>
+  <script onload="alert('click the input button and add a zip file')" onerror="alert('script failed to run')">
+      let f = document.getElementById('f');
+      f.onchange = function() {
+      var zip = new JSZip();
+      zip.loadAsync( this.files[0] /* = file blob */)
+          .then(function(zip) {
+              // process ZIP file content here
+              alert("OK")
+          }, function() {alert("Not a valid zip file")}); 
+      };
+  </script>
 </html>
