@@ -9,13 +9,13 @@
     <link rel="stylesheet" href="../css/style.css">
     <link rel="icon" href="../img/favicon.ico" id="my-favicon">
   </head>
-  <body>
+  <body onload="alert('click the input button and add a zip file')">
     <input type=file id=f>
   </body>
   <!--Scripts in Github must be hosted under the body element-->
   <!--<script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>-->
   <script src="jszip.min.js"></script>
-  <script onload="alert('click the input button and add a zip file')" onerror="alert('script failed to run')">
+  <script onerror="alert('script failed to run')">
       let f = document.getElementById('f');
       f.onchange = function() {
       var zip = new JSZip();
