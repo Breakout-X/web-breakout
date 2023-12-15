@@ -1,1 +1,0 @@
-var zip = new JSZip();
