@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
-  <head>
+  <HEAD />
     <title>Web Breakout | Projects</title>
     <meta charset="utf-8">
     <meta http-equiv="Content-Security-Policy" content="default-src 'unsafe-eval' 'self' data: blob: http:">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="icon" href="../img/favicon.ico" id="my-favicon">
-    <script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>
+  </HEAD / >
+  <body>
+    <!--<script src="https://cdn.jsdelivr.net/npm/jszip/dist/jszip.min.js"></script>-->
     <script src="jszip.min.js"></script>
     <script onload="alert('click the input button and add a zip file')" onerror="alert('script failed to run')">
         f = document.getElementById('f');
@@ -20,8 +22,6 @@
             }, function() {alert("Not a valid zip file")}); 
         };
     </script>
-  </head>
-  <body>
     <input type=file id=f>
   </body>
 </html>
