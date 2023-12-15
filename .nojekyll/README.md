@@ -1,1 +1,1 @@
-the ```.nojekyll``` directory should be ignored as all it does is remove the jekyll settings.
+The ```.nojekyll``` directory should be ignored as all it does is remove the jekyll settings.
