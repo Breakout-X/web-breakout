@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../../css/style.css">
   </head>
   <body>
     <h1>JavaScript localStorage demo</h1>
@@ -14,7 +14,8 @@
     <p></p>
     <button onclick="mySave()">Save</button>
     <button onclick="myLoad()">Load</button>
-    <script>
+  </body>
+  <script>
 
       function mySave() {
         var myContent = document.getElementById("myTextarea").value;
@@ -25,6 +26,5 @@
         var myContent = localStorage.getItem("myContent");
         document.getElementById("myTextarea").value = myContent;
       }
-    </script>
-  </body>
+  </script>
 </html>
