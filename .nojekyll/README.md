@@ -1,0 +1,1 @@
+.nojekyll should be ignored as all it does is remove the jekyll settings.
