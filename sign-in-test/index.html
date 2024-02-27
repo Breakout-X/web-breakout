@@ -46,6 +46,13 @@ document.getElementById("myForm").addEventListener("submit", function(event){
   // If all checks pass, submit the form data to your server-side script
   // Since GitHub Pages doesn't support PHP, you can't do this directly
   // You would need to use a different hosting service that supports PHP
+  fetch('https://codeprojects.org/projects/weblab/wlMd5WRGJCRftvnEDpph3iGfgGwwfM6gH53RLhxoL2c/test-verify.php')
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch((error) => {
+        console.error('Error:', error);
+    });
+
 });
 </script>
 
