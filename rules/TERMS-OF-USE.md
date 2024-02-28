@@ -1,16 +1,17 @@
-# TERMS OF USE
+# The Web Breakout TERMS OF USE
+Please read the TERMS carefully
 
 -- Using the site --
 
     a. Cookie Policy
 
-        By using this site, you agree to having our cookies on you for purposes involving performance, service, and data.
-        You can block performance and data cookies without having to go icognito, but data cookies being blocked can impact your user and project data.
-
+        By using this site, you agree to allowing our cookies.
+        Performance and Data cookies are required to be allowed.
+        We onlu keep cookie data for website performance, project loading, and your preferences in settings.
+        
     b. Project Policy
-
-        Projects may not be an attempt to hack other people or violate the RULES.
-        See RULES.md for more details.
+    
+        See RULES.md for details on project content.
 
     c. WebSocket (Online Server) policy
 
