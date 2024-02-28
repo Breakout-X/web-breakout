@@ -2,7 +2,7 @@
 
 Please read these TERMS carefully before using our website. 
 
-When we refer to you, we refer to you as **"you"**, **"user"**, or **"person"**. When we refer to us, we refer to us as **"we"**, **"us"**, **"The ELedlow Studios Team"**, **"The Web Breakout Team"** or **"The MasterCode Team"**.
+When we refer to you, we refer to you as **"you"**, **"user"**, or **"person"**. When we refer to us, we refer to us as **"we"**, **"us"**, **"our"**, , **"the Team"**, **"The ELedlow Studios Team"**, **"The Web Breakout Team"** or **"The MasterCode Team"**.
 
 When we refer to the RULES, we refer to the [**RULES Markdown Document**](https://breakout-x.github.io/web-breakout/rules/RULES.md)
 
