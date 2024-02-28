@@ -1,245 +1,100 @@
 # The Web Breakout TERMS OF USE
-Please read the TERMS carefully
 
--- Using the site --
+Please read these TERMS carefully before using our website. 
 
-    a. Cookie Policy
+When we refer to you, we refer to you as **"you"**, **"user"**, or **"person"**. When we refer to us, we refer to us as **"we"**, **"us"**, **"The ELedlow Studios Team"**, **"The Web Breakout Team"** or **"The MasterCode Team"**.
 
-        By using this site, you agree to allow cookies.
-        You can go into your account settings to edit what cookies are running after logging in to Web-Breakout.
-        Performance and Data cookies are required to be allowed.
-        We only keep cookie data for website performance, account verifcation and session, project loading, and your preferences in settings.
-        
-    b. Project Policy
+When we refer to the RULES, we refer to the [**RULES Markdown Document**](https://breakout-x.github.io/web-breakout/rules/RULES.md)
 
-        Creating a project must comply with the Laws in place and the RULES document.
-        See RULES.md for details on project content.
+## Using the Site
 
-    c. Online Servers policy
+### Cookie Policy
 
-        Projects by default run on the same WebServer that this website is running on.
-        However, WebSockets can be used for similar, but very different thigs.
-        -----------
-        Projects may run on a WebSocket that is allowed in scope of the program.
-        However, projects MAY NOT abuse the WebSocket in ways such as the following: 
-            Using hidden invalid ASCII (Unicode) characters, 
-            Running applications that are not already packaged within the project,
-            Attempting to edit data on external Websites,
-            Running any kind of embed or iframe,
-            Payment transactions,
-            Unfiltered Chat areas other than the already created Comments section on your project.
-        See RULES.md for more details.
+By using this site, you consent to our use of cookies. You can manage your cookie preferences in your account settings after logging into Web-Breakout. Please note that Performance and Data cookies are mandatory for the proper functioning of the site. We use cookies for website performance, account verification and session management, project loading, and to remember your preferences in settings.
 
-    d. RULES
+### Project Policy
 
-        If any of your interaction with this site is against the RULES, we can give you punishments 
-        such as the ones listed in RULES.md and ones dicussed in the "Ban Policy"
+All projects created on our platform must comply with the laws in place and our RULES document. Please refer to RULES.md and the "Projects and User Interaction" section for detailed guidelines on project content.
 
-    e. LICENSE
+### Online Servers Policy
 
-        If any of your interaction with this site is against the LICENSE, we can give you punishments 
-        such as the ones listed in RULES.md ones dicussed in the "Ban Policy" 
-        AND ones that require Legal Action.
-        See RULES.md and LICENSE.md for more details.
+By default, projects run on the same WebServer that this website is running on. However, you may use WebSockets within the scope of the program. Please refrain from abusing the WebSocket in ways such as using hidden invalid ASCII (Unicode) characters, running applications that are not already packaged within the project, attempting to edit data on external websites, running any kind of embed or iframe, conducting payment transactions, or creating unfiltered chat areas other than the already created Comments section on your project. For more details, please see RULES.md.
 
--- Projects and User interaction --
+## Projects and User Interaction
 
-    a. What is allowed and not allowed on projects
+### Content Guidelines
 
-        1. Violent/Distubring content
-            
-            Can contain Mild Violence, Cartoon Violence, Fantasy Violence, and Gore
-            Can contain References to SOME real-world violence (World War and before)
-            --
-            Cannot contain Strong Gore, Human child abuse, Real-world human or animal abuse,
-            human abuse in general, slavery.
-            --
-            See RULES.md in the "Violent and Disturbing" and the "Past/Present/Future" sections for more details.
+#### Violent/Disturbing Content
 
-        2. Suggestive/Explicit content
+We categorize violent content based on its suitability for different age groups:
 
-            Can contain some Suggestive content that is Cartoon/svg.
-                See RULES.md in the "Suggestive content" section for more details.
-            Can contain some Explicit content.
-                See RULES.md in the "Animal content" section for more details.
-            Can contain some Rude Humor.
-                See RULES.md for more details.
-            --
-            Cannot contain profanity unless censored.
-                See RULES.md in the "Past/Presnt/Future" Section for more details.
-            Cannot contain Suggestive or Explicit content that of real people based.
-                Breaking this rule will result in an instant ban. See RULES.md in the "Explicit content" section for more details.
-            Cannot contain Explicit content that is Cartoon Human based.
-                Breaking this rule will result in an instant ban. See RULES.md in the "Explicit content" section for more details.
-            Cannot contain some Rude Humor.
-                See RULES.md for more details.
+- Under 8: cartoon violence, mild violence. (FE)
+- Under 13: cartoon violence, mild violence, or fantasy violence. (FE)
+- 13 and over: cartoon violence, mild violence, fantasy violence, gore. (FS and NFE)
 
-    b. Chat/Comments section
+Please note that strong gore and sexually oriented violence are not tolerated for any age group.
 
-        1. Unsigned in or new accounts
+#### Suggestive/Explicit Content
 
-            Any accounts that are new cannot comment without a confirmed email
-            Any accounts that are unsigned in can see comments but cannot use it.
-            After confirming email, you must verify you are not a bot.
-            We may ask you if you are a bot if we have high suspicion of you being one.
-            Bots will get both a normal AND a ip ban.
-            ---------
-            See RULES.md for more details.
+We do not allow any suggestive or explicit content for users under 8. For guidelines applicable to users aged 13 and above, please refer to the "Content" section in RULES.md.
 
-        2. Accounts set to 10+
+#### Profanity or Unallowed Words
 
-            Any accounts set to an age over 10 years old can use the comments section.
-            You can turn off comments in the "Administrator" section in /settings/admin
-            However, you cannot use profanity in the comments section,
-            you cannot use iframes or embeds in the comments section,
-            only urls pointing to this gitsite will be highlighted,
-            unsafe or virus urls will be removed,
-            advertising or spamming is not allowed unless allowed by the project creator,
-            commenting on projects/profiles with comments turned off can result in a ban,
-            hate chatting can result in a ban from the comments section,
-            and anything violating the "Chat/Comments" section in the RULES.md
-            ---------
-            But with all of these "cant's", you still can do these:
-            You still can embed projects,
-            specific family-friendly Emoji's are allowed,
-            ACSII Unicode characters that are valid are allowed,
-            images are allowed if they are appropiate,
-            referring to mods of this website are allowed unless they have been reported
-            as a virus.
-            ---------
-            See RULES.md for more details.
+While mild language is permissible, profanity is not. If your project includes a list of swear words for the purpose of user input detection, we recommend using our provided import instead of creating your own. Please note that some words that may be considered swear words are not marked as such. If you find an issue with our filter, feel free to contact us.
 
-        3. Accounts set to 10- or school/guardian accounts.
+### Chat/Comments Section
 
-            Any accounts set to a age of less than 10 years old cannot use the comments section.
-            Any accounts with administrator settings turning off comments can't use or even see the comments.
-            ---------
-            If you have a school account and wish to still see the comments section, contact your administrator.
-            ---------
-            See RULES.md for more details.
+#### Signed Out or New Accounts
 
--- Project Reviews and Ratings--
+New accounts cannot comment without a confirmed email. Users who are not signed in can view comments but cannot post them. After confirming your email, you will need to verify that you are not a bot. For more details, please see RULES.md.
 
-    a. Reviews by the MasterCodeProjectBuild team
+#### Accounts Set to 10+
 
-        We review your project in 3 ways:
-            1. As a user would.
-                We can see your projects as viewed.
-                We usually do this if we think your project is good.
-                If your project is really good and follows these TERMS and the RULES,
-                we may put it on the /public page.
+Accounts set to an age over 10 years old are allowed to use the comments section. You can disable comments in the "Administrator" section at /settings/admin. Please note the following rules for the comments section:
 
-            2. Through the editor
-                Even if you have 'let others view code' set to off,
-                we can still view your code to check for viruses or anomolies.
-                DO NOT TRY TO HIDE STUFF FROM US. 
-                We can always see your editor and WebSockets.
-                See RULES.md for more details.
+- Profanity is not allowed.
+- Iframes or embeds are not allowed.
+- Only URLs pointing to this site will be highlighted.
+- Unsafe or virus URLs will be removed.
+- Advertising or spamming is not allowed unless permitted by the project creator.
+- Commenting on projects/profiles with comments turned off can result in a ban.
+- Hate speech can result in a ban from the comments section.
+- Any violation of the "Chat/Comments" section in the RULES.md is not allowed.
 
-            3. Through our Reviewing Api
-                We can rate your project in 6 ways:
-                    FE => For Everyone
-                    FS => For Some
-                    NFA => Not For Everyone
-                    P => Private
-                    NAN => Unshared
-                    R => Removed
+Despite these restrictions, you can still:
 
-                    For Everyone:
-                        The project contains content that everyone of all ages can handle.
-                        These can show up on the Public page, Search results, and Studios.
-                        We WILL NOT put content for people under 5 years of age on the front page however.
-                        We will have a badge on your project to tell you if we put it on the Public page.
+- Embed projects.
+- Use specific family-friendly emojis.
+- Use valid ASCII Unicode characters.
+- Post appropriate images.
+- Refer to mods of this website unless they have been reported as a virus.
 
-                    For Some:
-                        The project contains content that people over 13 years of age can handle.
-                        These projects still can show up on the Public page, Search results, and Studios.
-                        We will have a badge on your project to tell you if we put it on the Public page.
+For more details, please see RULES.md.
 
-                    Not For Everyone:
-                        Projects rated this rating means that this project contains stuff that violates to the specific required directs in the RULES,
-                        but is not violating any of the other RULES.
-                        These can't show up on the Public page, Search results, but can show up on Studios and are still visible.
-                    
-                    Private:    
-                        Projects rated this are projects that the user set to private.
-                        These projects still have to apply by the rules since they are still shared, but only to specific people.
-                        These can't show up on the Public page, Search results, or Studios, but are still visible via URL.
+#### Accounts Set to 10- or School/Guardian Accounts
 
-                    Unshared:
-                        These projects are projects that have not been shared by the user.
-                        These can't show up anywhere except on this website.
-                        These projects do not have to abide by most of the RULES but still cannot be of Porne or Viruses.
+Accounts set to an age of less than 10 years old or accounts with administrator settings turning off comments are not allowed to use or even see the comments section. If you have a school account and wish to still see the comments section, please contact your administrator. For more details, please see RULES.md.
 
-                    Removed:
-                        These are projects that have been unshared or banned by the MasterCodeProjectBuild team.
-                        These can't show up anywhere except on this website.
-                        Banned projects cannot be reshared but can still be edited
-                        Removed projects when reshared will be rated NFE.
+## Project Reviews and Ratings
 
-                For any other questions, see RULES.md for more details.
+### Reviews by the MasterCode Team
 
-    b. Reviews by other users
-        Other users can see your projects in viewing mode and can rate it.
-        You can disable 'let others view code' if you wish to make your code Private to only you and your collaborators.
+We review your project in three ways:
 
-    c. Ratings by the MasterCodeProjectBuild team
-        Besides the Reviewing Api, we can rate your project like a normal user would.
-        However, if we feel that your project is getting incorrect ratings, we can turn it off without your consent.
+1. **As a User**: We view your projects as any other user would. If we find your project to be of high quality and in compliance with these TERMS and the RULES, we may feature it on the /public page.
 
-    d. Ratings by other users
-        Users cannot rate your projects by chat, but by button.
-        ---
-        If you have been rated many ❤️'s, your project will be more likely to show up on the Public page.
-        If you have been rated many ⭐'s, your project will show up on the profile of one who rated your project.
-        If you have been rated many 💙's, your project will be less likely to show up on the Public page and will be more likely to be rated FS or NFE over FE.
-        ---
-        Users can report your project if it has something that violates the RULES.
-        We will not follow every report and we do not have time to view every project, so bad projects could still be out there, so be careful.
+2. **Through the Editor**: Even if you have disabled 'let others view code', we retain the ability to view your code to check for viruses or anomalies. Please note that we can always see your editor and WebSockets. For more details, refer to RULES.md.
 
--- Ban Policy --
+3. **Through our Reviewing API**: We can rate your project in six ways: For Everyone (FE), For Some (FS), Not For Everyone (NFA), Private (P), Unshared (NAN), and Removed (R). For detailed descriptions of these ratings, refer to RULES.md.
 
-    a. Project bans
-        We can remove your project if it has something that violates the rules in major.
-        As said before, projects cannot be reshared after being banned but still can be edited by the user.
-        However, after about 5 days, your project will be removed from the alghorithim entirely.
+### Reviews by Other Users
 
-    b. User bans
-        If you are repeadiatly violating the TERMS, RULES, and possibly the LICENSE, we have the authority to ban you.
-        If you believe you have been falsely banned, you can email us to restore your account.
-        You can be banned a max amount of 3 times.
-        Afterward, you will have to create an entirely new account from start.
-        However, violating different rules can result in worse punishments.
+Other users can view your projects and rate them. If you wish to make your code private to only you and your collaborators, you can disable 'let others view code'.
 
-    c. Chat bans
-        If you are sending adverisments or hate spam a lot while not being a bot, we can ban you with time limits on the chat.
+### Ratings by the MasterCodeProjectBuild Team
 
-        Offenses:
-            1st offense: 5 min
-            2nd offense: 5 min
-            3rd offense: 10 min
-            4th offense: 20 min
-            5th offense: 40 min
-            6th offense: 1hr 20 min
-            7th offense: 2hr 40 min
-            8th offense: 5hr 20 min
-            9th offense: Permanent ban
+In addition to the Reviewing API, we can rate your project as a normal user would. However, if we believe that your project is receiving incorrect ratings, we reserve the right to disable ratings without your consent.
 
-    d. Ip bans
-        If your IP has been banned, your network/location has no more access to this website.
-        ---
-        We will IP ban you if you are violating the vast majority of the RULES repeadiatly.
-        You can still email us to restore your account but will have to use a different network since IP bans are permanent.
+### Ratings by Other Users
 
-    e. Restore your account if banned incorrectly.
-        If you have been banned and belive you have been banned improperly, you can email us here:
-        [no email set]
-
--- Mod Policy --
-
-    a. Policy
-        
-
-    b. Mod LICENSE
-
-    c. Mod RULES
+Users can rate your projects using the provided button, not via chat.
