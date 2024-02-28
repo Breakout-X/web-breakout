@@ -1,9 +1,8 @@
-# This is the LICENSE
----------------
-# DO NOT EDIT
+# The official Web Breakout LICENSE
 
-Copyright 2023 of Elijah Ledlow and of the contributors to MasterCodeProjectBuild.
-This work is licensed under a *Creative Commons Attribution 4.0 International License* (CC BY-SA 4.0 License) ![Creative Commons icon](cc/cc.jpg)https://creativecommons.org/licenses/by-sa/4.0/
+Copyright **2023** of Elijah Ledlow and of the contributors to MasterCodeProjectBuild.
+This work is licensed under a *Creative Commons Attribution 4.0 International License* [(CC BY-SA 4.0 License)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ---------------
 
 Attribution-ShareAlike 4.0 International
