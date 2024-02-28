@@ -5,25 +5,29 @@ Please read the TERMS carefully
 
     a. Cookie Policy
 
-        By using this site, you agree to allowing our cookies.
+        By using this site, you agree to allow cookies.
+        You can go into your account settings to edit what cookies are running after logging in to Web-Breakout.
         Performance and Data cookies are required to be allowed.
-        We onlu keep cookie data for website performance, project loading, and your preferences in settings.
+        We only keep cookie data for website performance, account verifcation and session, project loading, and your preferences in settings.
         
     b. Project Policy
-    
+
+        Creating a project must comply with the Laws in place and the RULES document.
         See RULES.md for details on project content.
 
-    c. WebSocket (Online Server) policy
+    c. Online Servers policy
 
-        Projects by default run on the same WebServer that this gitsite is running on.
+        Projects by default run on the same WebServer that this website is running on.
         However, WebSockets can be used for similar, but very different thigs.
         -----------
         Projects may run on a WebSocket that is allowed in scope of the program.
         However, projects MAY NOT abuse the WebSocket in ways such as the following: 
-            Using hidden invalid ASCII characters, 
-            Running image/svg/font codes of images that have previously been banned, 
-            Unfiltered chat, (filtered chat however is fine), 
-            Credit cards and more. 
+            Using hidden invalid ASCII (Unicode) characters, 
+            Running applications that are not already packaged within the project,
+            Attempting to edit data on external Websites,
+            Running any kind of embed or iframe,
+            Payment transactions,
+            Unfiltered Chat areas other than the already created Comments section on your project.
         See RULES.md for more details.
 
     d. RULES
